@@ -1,0 +1,1 @@
+google: --format pretty --format html --out=reports/test_report.html --tags @google --tags ~@manual --tags ~@failing
